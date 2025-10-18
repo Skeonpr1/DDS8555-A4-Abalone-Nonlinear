@@ -1,0 +1,3 @@
+Model,OOF_RMSE
+Polynomial+Ridge,1.9182717130540494
+Spline+Ridge,2.7540656791162705

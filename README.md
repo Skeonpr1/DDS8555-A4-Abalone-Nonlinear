@@ -1,6 +1,10 @@
 # DDS‑8555 — Assignment 4: Nonlinear Models (Abalone)
 
 This repository contains a reproducible pipeline for two nonlinear models and Kaggle-ready submissions.
+**Kaggle results (Late Submission)**
+- Model 1 (Polynomial+Ridge): Public 0.15632 • Private 0.15556
+- Model 2 (Spline+Ridge):    Public 0.15830 • Private 0.15911  
+See `figs/kaggle_results.png` for the submission screenshot.
 
 ## Structure
 ```
